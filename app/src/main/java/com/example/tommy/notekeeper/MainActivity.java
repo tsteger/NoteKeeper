@@ -1,4 +1,7 @@
 package com.example.tommy.notekeeper;
+/***
+ * Autor Tommy Steger 
+ */
 
 import android.content.Intent;
 import android.os.Bundle;
